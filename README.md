@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/akshayvarma121/Leetcode/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/akshayvarma121/Leetcode/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akshayvarma121/Leetcode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/akshayvarma121/Leetcode/tree/master/0051-n-queens) |
 ## Math
 |  |
 | ------- |
