@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/akshayvarma121/Leetcode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/akshayvarma121/Leetcode/tree/master/0051-n-queens) |
 | [0980-unique-paths-iii](https://github.com/akshayvarma121/Leetcode/tree/master/0980-unique-paths-iii) |
+| [2326-spiral-matrix-iv](https://github.com/akshayvarma121/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/akshayvarma121/Leetcode/tree/master/0086-partition-list) |
+| [2326-spiral-matrix-iv](https://github.com/akshayvarma121/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,8 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/akshayvarma121/Leetcode/tree/master/0980-unique-paths-iii) |
+| [2326-spiral-matrix-iv](https://github.com/akshayvarma121/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Number Theory
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/akshayvarma121/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Simulation
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/akshayvarma121/Leetcode/tree/master/2326-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
