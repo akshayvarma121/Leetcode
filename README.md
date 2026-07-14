@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/akshayvarma121/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/akshayvarma121/Leetcode/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/akshayvarma121/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/akshayvarma121/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0980-unique-paths-iii](https://github.com/akshayvarma121/Leetcode/tree/master/0980-unique-paths-iii) |
 | [2326-spiral-matrix-iv](https://github.com/akshayvarma121/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akshayvarma121/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/akshayvarma121/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/akshayvarma121/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/akshayvarma121/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/akshayvarma121/Leetcode/tree/master/0049-group-anagrams) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/akshayvarma121/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
