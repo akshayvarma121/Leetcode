@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akshayvarma121/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/akshayvarma121/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/akshayvarma121/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/akshayvarma121/Leetcode/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/akshayvarma121/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0980-unique-paths-iii](https://github.com/akshayvarma121/Leetcode/tree/master/0980-unique-paths-iii) |
@@ -15,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akshayvarma121/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/akshayvarma121/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/akshayvarma121/Leetcode/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akshayvarma121/Leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/akshayvarma121/Leetcode/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/akshayvarma121/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2326-spiral-matrix-iv](https://github.com/akshayvarma121/Leetcode/tree/master/2326-spiral-matrix-iv) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/akshayvarma121/Leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
