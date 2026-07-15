@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/akshayvarma121/Leetcode/tree/master/0050-powx-n) |
 | [1492-the-kth-factor-of-n](https://github.com/akshayvarma121/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/akshayvarma121/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/akshayvarma121/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/akshayvarma121/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
